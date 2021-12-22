@@ -1,0 +1,3 @@
+The web address to view the quote generator is at https://gnurmoor.github.io/WebLinks/
+
+This project is intended for informational purposes only. This code is intended for reference for all of the bookmarked sites that I use for full stack development. This site may be separated for clarification and distinction from front and back end development sites. For any answers to questions please email me at rmoor@rmoorind.com
